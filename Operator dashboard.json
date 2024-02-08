@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -7,6 +8,8 @@
         "coordinates": [138.4770, -34.8586, 0]
       },
       "properties": {
+        "ID": 6028558,
+        "Dashboard": null,
         "Notes": "Palmer, South Australia",
         "Region": "Central CWQIP"
       }
@@ -18,6 +21,8 @@
         "coordinates": [139.0304, -35.1579, 0]
       },
       "properties": {
+        "ID": 6028561,
+        "Dashboard": null,
         "Notes": "Kanmantoo, South Australia",
         "Region": "Central CWQIP"
       }
@@ -29,6 +34,8 @@
         "coordinates": [139.6948, -34.3784, 0]
       },
       "properties": {
+        "ID": 6028552,
+        "Dashboard": null,
         "Notes": "Blanchetown, South Australia",
         "Region": "Northern CWQIP"
       }
@@ -40,6 +47,8 @@
         "coordinates": [139.7672, -34.2500, 0]
       },
       "properties": {
+        "ID": 6067393,
+        "Dashboard": null,
         "Notes": "Cadell, South Australia",
         "Region": "Northern CWQIP"
       }
@@ -51,6 +60,8 @@
         "coordinates": [139.4304, -34.8306, 0]
       },
       "properties": {
+        "ID": 6050267,
+        "Dashboard": null,
         "Notes": "Cowirra, South Australia",
         "Region": "Central CWQIP"
       }
@@ -62,6 +73,8 @@
         "coordinates": [140.5698, -34.2203, 0]
       },
       "properties": {
+        "ID": null,
+        "Dashboard": null,
         "Notes": "Glossop, South Australia",
         "Region": "Northern CWQIP"
       }
@@ -73,6 +86,8 @@
         "coordinates": [140.5047, -34.3137, 0]
       },
       "properties": {
+        "ID": null,
+        "Dashboard": null,
         "Notes": "Moorook, South Australia",
         "Region": "Northern CWQIP"
       }
@@ -84,6 +99,8 @@
         "coordinates": [139.2010, -35.1302, 0]
       },
       "properties": {
+        "ID": null,
+        "Dashboard": null,
         "Notes": "Mypolonga, South Australia",
         "Region": "Central CWQIP"
       }
@@ -95,6 +112,8 @@
         "coordinates": [139.8896, -34.7265, 0]
       },
       "properties": {
+        "ID": null,
+        "Dashboard": null,
         "Notes": "Swan Reach, South Australia",
         "Region": "Northern CWQIP"
       }
@@ -106,6 +125,8 @@
         "coordinates": [140.5628, -34.2376, 0]
       },
       "properties": {
+        "ID": null,
+        "Dashboard": null,
         "Notes": "Woolpunda, South Australia",
         "Region": "Northern CWQIP"
       }
@@ -117,6 +138,8 @@
         "coordinates": [137.9032, -35.7154, 0]
       },
       "properties": {
+        "ID": null,
+        "Dashboard": null,
         "Notes": "Penneshaw, South Australia (Kangaroo Island)",
         "Region": "Unknown"
       }
