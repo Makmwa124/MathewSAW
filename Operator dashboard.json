@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.4770, -34.8586, 0]
+      },
+      "properties": {
+        "Notes": "Palmer, South Australia",
+        "Region": "Central CWQIP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.0304, -35.1579, 0]
+      },
+      "properties": {
+        "Notes": "Kanmantoo, South Australia",
+        "Region": "Central CWQIP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6948, -34.3784, 0]
+      },
+      "properties": {
+        "Notes": "Blanchetown, South Australia",
+        "Region": "Northern CWQIP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7672, -34.2500, 0]
+      },
+      "properties": {
+        "Notes": "Cadell, South Australia",
+        "Region": "Northern CWQIP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.4304, -34.8306, 0]
+      },
+      "properties": {
+        "Notes": "Cowirra, South Australia",
+        "Region": "Central CWQIP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.5698, -34.2203, 0]
+      },
+      "properties": {
+        "Notes": "Glossop, South Australia",
+        "Region": "Northern CWQIP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.5047, -34.3137, 0]
+      },
+      "properties": {
+        "Notes": "Moorook, South Australia",
+        "Region": "Northern CWQIP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.2010, -35.1302, 0]
+      },
+      "properties": {
+        "Notes": "Mypolonga, South Australia",
+        "Region": "Central CWQIP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.8896, -34.7265, 0]
+      },
+      "properties": {
+        "Notes": "Swan Reach, South Australia",
+        "Region": "Northern CWQIP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.5628, -34.2376, 0]
+      },
+      "properties": {
+        "Notes": "Woolpunda, South Australia",
+        "Region": "Northern CWQIP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.9032, -35.7154, 0]
+      },
+      "properties": {
+        "Notes": "Penneshaw, South Australia (Kangaroo Island)",
+        "Region": "Unknown"
+      }
+    }
+  ]
+}
