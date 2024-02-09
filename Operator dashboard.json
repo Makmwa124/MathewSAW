@@ -123,7 +123,7 @@
     }
   ],
     "style": {
-    "radius": 50, // Adjust the point size here
+    "radius": 50,
     "fillColor": "#ff0000",
     "fillOpacity": 0.5,
     "color": "#000",
