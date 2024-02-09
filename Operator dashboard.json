@@ -123,7 +123,7 @@
     }
   ],
     "style": {
-    "radius": 50,
+    "radius": 100,
     "fillColor": "#ff0000",
     "fillOpacity": 0.5,
     "color": "#000",
