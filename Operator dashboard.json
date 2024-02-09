@@ -121,5 +121,13 @@
         "Region": "Northern CWQIP"
       }
     }
-  ]
+  ],
+    "style": {
+    "radius": 50, // Adjust the point size here
+    "fillColor": "#ff0000",
+    "fillOpacity": 0.5,
+    "color": "#000",
+    "weight": 1,
+    "opacity": 1
+  }
 }
