@@ -9,8 +9,8 @@
       },
       "properties": {
         "ID": 6028558,
-        "Dashboard": http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432261/palmer-operator-dashboard?orgId=1&from=1707264880898&to=1707437680898,
-        "Notes": "Palmer, South Australia",
+        "Dashboard": "http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432261/palmer-operator-dashboard?orgId=1&from=1707264880898&to=1707437680898",
+        "Notes": "Palmer WTP",
         "Region": "Central CWQIP"
       }
     },
@@ -22,8 +22,8 @@
       },
       "properties": {
         "ID": 6028561,
-        "Dashboard": null,
-        "Notes": "Kanmantoo, South Australia",
+        "Dashboard": "http://sawsgra01:8080/d/ebd18b5c-e8b9-4e69-b13e-5f6469e6ba9f/kanmantoo-wtp-operator-dashboard?orgId=1&from=1707265067318&to=1707437867318",
+        "Notes": "Kanmantoo WTP",
         "Region": "Central CWQIP"
       }
     },
@@ -35,8 +35,8 @@
       },
       "properties": {
         "ID": 6028552,
-        "Dashboard": null,
-        "Notes": "Blanchetown, South Australia",
+        "Dashboard": "http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432270/blanchetown-operator-dashboard?orgId=1&from=1705110866243&to=1705283666243",
+        "Notes": "Blanchetown WTP",
         "Region": "Northern CWQIP"
       }
     },
@@ -48,8 +48,8 @@
       },
       "properties": {
         "ID": 6067393,
-        "Dashboard": null,
-        "Notes": "Cadell, South Australia",
+        "Dashboard": "http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432271/cadell-operator-dashboard?orgId=1&from=1703567215128&to=1703740015128",
+        "Notes": "Cadell WTP",
         "Region": "Northern CWQIP"
       }
     },
@@ -61,8 +61,8 @@
       },
       "properties": {
         "ID": 6050267,
-        "Dashboard": null,
-        "Notes": "Cowirra, South Australia",
+        "Dashboard": "http://sawsgra01:8080/d/f37139d5-1e11-4369-80b5-d6edd1899556/cowirra-operator-dashboard?orgId=1&from=1707265145011&to=1707437945011",
+        "Notes": "Cowirra WTP",
         "Region": "Central CWQIP"
       }
     },
@@ -74,8 +74,8 @@
       },
       "properties": {
         "ID": null,
-        "Dashboard": null,
-        "Notes": "Glossop, South Australia",
+        "Dashboard": "http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432276/glossop-operator-dashboard?orgId=1&from=1703567460763&to=1703740260763",
+        "Notes": "Glossop WTP",
         "Region": "Northern CWQIP"
       }
     },
@@ -87,8 +87,8 @@
       },
       "properties": {
         "ID": null,
-        "Dashboard": null,
-        "Notes": "Moorook, South Australia",
+        "Dashboard": "http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432277/moorook-operator-dashboard?orgId=1&from=1703569172012&to=1703741972012",
+        "Notes": "Moorook WTP",
         "Region": "Northern CWQIP"
       }
     },
@@ -100,8 +100,8 @@
       },
       "properties": {
         "ID": null,
-        "Dashboard": null,
-        "Notes": "Mypolonga, South Australia",
+        "Dashboard": "http://sawsgra01:8080/d/db3d40b9-0c7c-44fc-af04-c4c5a343d674/mypolonga-wtp-operator-dashboard?orgId=1&from=1706833628909&to=1707438428909",
+        "Notes": "Mypolonga WTP",
         "Region": "Central CWQIP"
       }
     },
@@ -113,8 +113,8 @@
       },
       "properties": {
         "ID": null,
-        "Dashboard": null,
-        "Notes": "Swan Reach, South Australia",
+        "Dashboard": "http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432282/swan-reach-town-operator-dashboard-new?orgId=1&from=1704166282422&to=1704339082422",
+        "Notes": "Swan Reach WTP",
         "Region": "Northern CWQIP"
       }
     },
@@ -126,22 +126,9 @@
       },
       "properties": {
         "ID": null,
-        "Dashboard": null,
-        "Notes": "Woolpunda, South Australia",
+        "Dashboard": "http://sawsgra01:8080/d/ebd18b5c-e8b9-4e69-b13e-5f6469f7ba8f/woolpunda-wtp-operator-dashboard?orgId=1&from=1704762753647&to=1705367553647",
+        "Notes": "Woolpunda WTP",
         "Region": "Northern CWQIP"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [137.9032, -35.7154, 0]
-      },
-      "properties": {
-        "ID": null,
-        "Dashboard": null,
-        "Notes": "Penneshaw, South Australia (Kangaroo Island)",
-        "Region": "Unknown"
       }
     }
   ]
