@@ -5,9 +5,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "radius": 100,
         "coordinates": [138.4770, -34.8586, 0]
       },
+    "style": {
+    "radius": 100,
+    "fillColor": "#ff0000",
+    "fillOpacity": 0.5,
+    "color": "#000",
+    "weight": 1,
+    "opacity": 1
+  },
       "properties": {
         "Dashboard": "http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432261/palmer-operator-dashboard?orgId=1&from=1707264880898&to=1707437680898",
         "Notes": "Palmer WTP",
@@ -122,13 +129,5 @@
         "Region": "Northern CWQIP"
       }
     }
-  ],
-    "style": {
-    "radius": 100,
-    "fillColor": "#ff0000",
-    "fillOpacity": 0.5,
-    "color": "#000",
-    "weight": 1,
-    "opacity": 1
-  }
+  ]
 }
