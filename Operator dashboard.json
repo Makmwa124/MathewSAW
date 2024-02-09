@@ -9,7 +9,7 @@
       },
       "properties": {
         "ID": 6028558,
-        "Dashboard": null,
+        "Dashboard": "http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432261/palmer-operator-dashboard?orgId=1&from=1707264880898&to=1707437680898",
         "Notes": "Palmer, South Australia",
         "Region": "Central CWQIP"
       }
