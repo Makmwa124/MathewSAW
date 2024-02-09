@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "point",
+        "type": "Point",
         "coordinates": [138.4770, -34.8586, 0]
       },
       "properties": {
@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [139.2010, -35.1302, 0]
       },
       "properties": {
