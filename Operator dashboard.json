@@ -12,7 +12,6 @@
         "Notes": "<div style='background-color: yellow; padding: 5px;'>Palmer WTP</div>",
         "Region": "Central CWQIP"
       }
-    },
-    // Include other features here...
+    }
   ]
 }
