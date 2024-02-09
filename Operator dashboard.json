@@ -101,7 +101,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [139.59745218444644, --34.569022876002236, 0]
+        "coordinates": [139.59745218444644, -34.569022876002236, 0]
       },
       "properties": {
         "Dashboard": "http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432282/swan-reach-town-operator-dashboard-new?orgId=1&from=1704166282422&to=1704339082422",
