@@ -5,7 +5,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"WTP Palmer"
+            "NOTES":"WTP Palmer",
+            "Dashboard":"http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432261/palmer-operator-dashboard?orgId=1&from=1707264880898&to=1707437680898"
          },
          "geometry":{
             "type":"Point",
@@ -57,7 +58,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"Cowirra Filtration Water Treatment Plant (Dabinett Rd)"
+            "NOTES":"Cowirra Filtration Water Treatment Plant (Dabinett Rd)",
+            "Dashboard":"http://sawsgra01:8080/d/f37139d5-1e11-4369-80b5-d6edd1899556/cowirra-operator-dashboard?orgId=1&from=1707265145011&to=1707437945011"
          },
          "geometry":{
             "type":"Point",
@@ -70,7 +72,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"Glossop WTP"
+            "NOTES":"Glossop WTP",
+            "Dashboard":"http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432276/glossop-operator-dashboard?orgId=1&from=1703567460763&to=1703740260763"
          },
          "geometry":{
             "type":"Point",
@@ -83,7 +86,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"Kanmantoo Filtration Water Treatment Plant (Mills Rd)"
+            "NOTES":"Kanmantoo Filtration Water Treatment Plant (Mills Rd)",
+            "Dashboard":"http://sawsgra01:8080/d/ebd18b5c-e8b9-4e69-b13e-5f6469e6ba9f/kanmantoo-wtp-operator-dashboard?orgId=1&from=1707265067318&to=1707437867318"
          },
          "geometry":{
             "type":"Point",
@@ -96,7 +100,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"WTP Swan Reach CWQIP (new small)"
+            "NOTES":"WTP Swan Reach CWQIP (new small)",
+            "Dashboard":"http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432282/swan-reach-town-operator-dashboard-new?orgId=1&from=1704166282422&to=1704339082422"
          },
          "geometry":{
             "type":"Point",
@@ -122,7 +127,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"WTP Woolpunda"
+            "NOTES":"WTP Woolpunda",
+            "Dashboard":"http://sawsgra01:8080/d/ebd18b5c-e8b9-4e69-b13e-5f6469f7ba8f/woolpunda-wtp-operator-dashboard?orgId=1&from=1704762753647&to=1705367553647"
          },
          "geometry":{
             "type":"Point",
@@ -291,7 +297,8 @@
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"WTP Blanchetown"
+            "NOTES":"WTP Blanchetown",
+            "Dashboard":"http://sawsgra01:8080/d/aeed37c5-b781-40e3-9fac-1b4c22432270/blanchetown-operator-dashboard?orgId=1&from=1705110866243&to=1705283666243"
          },
          "geometry":{
             "type":"Point",
@@ -479,267 +486,46 @@
             "type":"Point",
             "coordinates":[
                140.794946917000061,
-               -37.626985108999975
+               -37.626985485999982
             ]
          }
       },
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"Parilla Iron Removal Plant"
+            "NOTES":"Tintinara IRP"
          },
          "geometry":{
             "type":"Point",
             "coordinates":[
-               140.663799601000051,
-               -35.296287706999976
+               140.998946299000102,
+               -35.996382036999973
             ]
          }
       },
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"WTP Cadell"
+            "NOTES":"Willalooka IRP"
          },
          "geometry":{
             "type":"Point",
             "coordinates":[
-               139.774403925000115,
-               -34.036781820999977
+               140.442413163000045,
+               -36.782994661999956
             ]
          }
       },
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"Swan Reach WTP"
+            "NOTES":"Wolseley IRP"
          },
          "geometry":{
             "type":"Point",
             "coordinates":[
-               139.569127172000094,
-               -34.501891033999982
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Berri WTP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.599662384000112,
-               -34.288013707999937
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Hawker Desalination Plant WTPDESAL"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               138.466772385000013,
-               -31.883045770999956
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Leigh Creek Plant WTP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               138.400766112000042,
-               -30.60225801699994
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Kenmore Park Water Treatment Plant"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               132.445831817000112,
-               -26.326135535999981
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Indulkana Desalination Water Treatment Plant"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               133.285017244000073,
-               -26.985165940999934
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Fregon UV Water Dosing Station\/Raw Water Storage Tank Compound\/Desalination Water Treatment Plant\/Re"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               132.037160497000059,
-               -26.762074648999942
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Mimili UV Water Dosing Station\/Raw Water Storage Tank Compound\/Desalination Water Treatment Plant\/Re"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               132.708255313000109,
-               -27.005630254999971
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Sleaford Desalination Water Treatment Plant (Port Lincoln)"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               135.717567985000073,
-               -34.847156928999937
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Wirrina Cove Water Treatment Plant"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               138.251765185000068,
-               -35.504972394999982
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":null
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.371273296000027,
-               -36.976337342999955
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Yalata Treatment Plant"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               131.841610326000023,
-               -31.480937888999961
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Penneshaw Desalination Water Treatment Plant No.2"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               137.920846216000086,
-               -35.723662625999964
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":null
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               133.626323665000086,
-               -27.300902483999948
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":null
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               138.066565243000014,
-               -29.644617445999984
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Cape Jaffa WTP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               139.711185101000069,
-               -36.943523654999979
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Port Lincoln Desalination Water Treatment Plant (Andrews Dr)"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               135.884999999000115,
-               -34.751116666999962
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Oodnadatta WTP High Recovery Desal Non Potable WQ Upgrade"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               135.441968625000072,
-               -27.552403230999971
+               140.895561866000075,
+               -36.331084622999981
             ]
          }
       }
