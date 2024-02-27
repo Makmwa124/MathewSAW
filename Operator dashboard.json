@@ -1,63 +1,747 @@
 {
-type: "FeatureCollection",
-name: "WTPsExport20022024_Project",
-features: [
-{ "type": "Feature", "properties": { "NOTES": "WTP Palmer" }, "geometry": { "type": "Point", "coordinates": [ 139.166945269000053, -34.855938976999937 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Hope Valley Water Treatment Plant" }, "geometry": { "type": "Point", "coordinates": [ 138.686792341000114, -34.847672132999946 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Myponga Water Treatment Plant" }, "geometry": { "type": "Point", "coordinates": [ 138.41011815100012, -35.39890652899993 ] } },
-{ "type": "Feature", "properties": { "NOTES": "WTP Moorook" }, "geometry": { "type": "Point", "coordinates": [ 140.355567513000096, -34.286999392999974 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Cowirra Filtration Water Treatment Plant (Dabinett Rd)" }, "geometry": { "type": "Point", "coordinates": [ 139.307911907000062, -34.945896128999948 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Glossop WTP" }, "geometry": { "type": "Point", "coordinates": [ 140.546858661000101, -34.277584948999959 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Kanmantoo Filtration Water Treatment Plant (Mills Rd)" }, "geometry": { "type": "Point", "coordinates": [ 139.01679918800005, -35.056167874999971 ] } },
-{ "type": "Feature", "properties": { "NOTES": "WTP Swan Reach CWQIP (new small)" }, "geometry": { "type": "Point", "coordinates": [ 139.603427502000045, -34.564696079999976 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Adelaide Desalination Plant (Port Stanvac)" }, "geometry": { "type": "Point", "coordinates": [ 138.483783926000115, -35.096550737999962 ] } },
-{ "type": "Feature", "properties": { "NOTES": "WTP Woolpunda" }, "geometry": { "type": "Point", "coordinates": [ 140.218375989000037, -34.180375688999959 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Renmark WTP" }, "geometry": { "type": "Point", "coordinates": [ 140.749982175000014, -34.163313628999958 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Loxton WTP" }, "geometry": { "type": "Point", "coordinates": [ 140.574402356000064, -34.443758979999984 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Mannum WTP" }, "geometry": { "type": "Point", "coordinates": [ 139.307526677000055, -34.91769734099995 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Mount Pleasant Filtration Water Treatment Plant (Tungkillo Rd)" }, "geometry": { "type": "Point", "coordinates": [ 139.047841542000015, -34.795115983999949 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Murray Bridge WTP" }, "geometry": { "type": "Point", "coordinates": [ 139.25569724200011, -35.096405726999933 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Little Para Water Treatment Plant" }, "geometry": { "type": "Point", "coordinates": [ 138.716667026000096, -34.756783881999979 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Happy Valley Water Treatment Plant" }, "geometry": { "type": "Point", "coordinates": [ 138.567789184000048, -35.066804640999976 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Middle River WTP" }, "geometry": { "type": "Point", "coordinates": [ 137.129417128000114, -35.734149366999929 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Barmera WTP" }, "geometry": { "type": "Point", "coordinates": [ 140.40149636700005, -34.24240413299998 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Anstey Hill Water Treatment Plant" }, "geometry": { "type": "Point", "coordinates": [ 138.739441348000014, -34.838591935999943 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Waikerie WTP" }, "geometry": { "type": "Point", "coordinates": [ 139.988155141000107, -34.1795757 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Morgan WTP" }, "geometry": { "type": "Point", "coordinates": [ 139.684558244000073, -34.021117883999977 ] } },
-{ "type": "Feature", "properties": { "NOTES": "WTP Blanchetown" }, "geometry": { "type": "Point", "coordinates": [ 139.611607578000076, -34.348910294999939 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Summit Storage WTP" }, "geometry": { "type": "Point", "coordinates": [ 138.861162935000038, -35.017214312999954 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Tailem Bend WTP" }, "geometry": { "type": "Point", "coordinates": [ 139.45960109900011, -35.273841219999952 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Barossa Valley Water Treatment Plant" }, "geometry": { "type": "Point", "coordinates": [ 138.848952667000049, -34.642213676999972 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Mypolonga Filtration Water Treatment Plant (Wool Shed Rd)" }, "geometry": { "type": "Point", "coordinates": [ 139.350868012000092, -35.035473318999948 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Penneshaw Desalination Water Treatment Plant" }, "geometry": { "type": "Point", "coordinates": [ 137.91772142800005, -35.720728802999929 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Beachport IRP" }, "geometry": { "type": "Point", "coordinates": [ 140.008394599000098, -37.477708965999966 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Kalangadoo IRP" }, "geometry": { "type": "Point", "coordinates": [ 140.705068107000102, -37.566147440999941 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Kingston IRP" }, "geometry": { "type": "Point", "coordinates": [ 139.859417669000095, -36.832417001999943 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Lameroo IRP" }, "geometry": { "type": "Point", "coordinates": [ 140.513333077000084, -35.328826210999978 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Lucindale IRP" }, "geometry": { "type": "Point", "coordinates": [ 140.371277516000077, -36.976117949999946 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Penola Iron Removal Plant" }, "geometry": { "type": "Point", "coordinates": [ 140.840674350000086, -37.367387723999968 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Pinnaroo Iron Removal Plant" }, "geometry": { "type": "Point", "coordinates": [ 140.913426584000035, -35.256298198999957 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Robe IRP" }, "geometry": { "type": "Point", "coordinates": [ 139.76529726900003, -37.166296068999941 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Tarpeena IRP" }, "geometry": { "type": "Point", "coordinates": [ 140.794946917000061, -37.626985108999975 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Parilla Iron Removal Plant" }, "geometry": { "type": "Point", "coordinates": [ 140.663799601000051, -35.296287706999976 ] } },
-{ "type": "Feature", "properties": { "NOTES": "WTP Cadell" }, "geometry": { "type": "Point", "coordinates": [ 139.774403925000115, -34.036781820999977 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Swan Reach WTP" }, "geometry": { "type": "Point", "coordinates": [ 139.569127172000094, -34.501891033999982 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Berri WTP" }, "geometry": { "type": "Point", "coordinates": [ 140.599662384000112, -34.288013707999937 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Hawker Desalination Plant WTPDESAL" }, "geometry": { "type": "Point", "coordinates": [ 138.466772385000013, -31.883045770999956 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Leigh Creek Plant WTP" }, "geometry": { "type": "Point", "coordinates": [ 138.400766112000042, -30.60225801699994 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Kenmore Park Water Treatment Plant" }, "geometry": { "type": "Point", "coordinates": [ 132.445831817000112, -26.326135535999981 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Indulkana Desalination Water Treatment Plant" }, "geometry": { "type": "Point", "coordinates": [ 133.285017244000073, -26.985165940999934 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Fregon UV Water Dosing Station\/Raw Water Storage Tank Compound\/Desalination Water Treatment Plant\/Re" }, "geometry": { "type": "Point", "coordinates": [ 132.037160497000059, -26.762074648999942 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Mimili UV Water Dosing Station\/Raw Water Storage Tank Compound\/Desalination Water Treatment Plant\/Re" }, "geometry": { "type": "Point", "coordinates": [ 132.708255313000109, -27.005630254999971 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Sleaford Desalination Water Treatment Plant (Port Lincoln)" }, "geometry": { "type": "Point", "coordinates": [ 135.717567985000073, -34.847156928999937 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Wirrina Cove Water Treatment Plant" }, "geometry": { "type": "Point", "coordinates": [ 138.251765185000068, -35.504972394999982 ] } },
-{ "type": "Feature", "properties": { "NOTES": null }, "geometry": { "type": "Point", "coordinates": [ 140.371273296000027, -36.976337342999955 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Yalata Treatment Plant" }, "geometry": { "type": "Point", "coordinates": [ 131.841610326000023, -31.480937888999961 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Penneshaw Desalination Water Treatment Plant No.2" }, "geometry": { "type": "Point", "coordinates": [ 137.920846216000086, -35.723662625999964 ] } },
-{ "type": "Feature", "properties": { "NOTES": null }, "geometry": { "type": "Point", "coordinates": [ 133.626323665000086, -27.300902483999948 ] } },
-{ "type": "Feature", "properties": { "NOTES": null }, "geometry": { "type": "Point", "coordinates": [ 138.066565243000014, -29.644617445999984 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Cape Jaffa WTP" }, "geometry": { "type": "Point", "coordinates": [ 139.711185101000069, -36.943523654999979 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Port Lincoln Desalination Water Treatment Plant (Andrews Dr)" }, "geometry": { "type": "Point", "coordinates": [ 135.884999999000115, -34.751116666999962 ] } },
-{ "type": "Feature", "properties": { "NOTES": "Oodnadatta WTP High Recovery Desal Non Potable WQ Upgrade" }, "geometry": { "type": "Point", "coordinates": [ 135.441968625000072, -27.552403230999971 ] } }
-]
+   "type":"FeatureCollection",
+   "name":"WTPsExport20022024_Project",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"WTP Palmer"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.166945269000053,
+               -34.855938976999937
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Hope Valley Water Treatment Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.686792341000114,
+               -34.847672132999946
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Myponga Water Treatment Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.41011815100012,
+               -35.39890652899993
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"WTP Moorook"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.355567513000096,
+               -34.286999392999974
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Cowirra Filtration Water Treatment Plant (Dabinett Rd)"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.307911907000062,
+               -34.945896128999948
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Glossop WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.546858661000101,
+               -34.277584948999959
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Kanmantoo Filtration Water Treatment Plant (Mills Rd)"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.01679918800005,
+               -35.056167874999971
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"WTP Swan Reach CWQIP (new small)"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.603427502000045,
+               -34.564696079999976
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Adelaide Desalination Plant (Port Stanvac)"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.483783926000115,
+               -35.096550737999962
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"WTP Woolpunda"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.218375989000037,
+               -34.180375688999959
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Renmark WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.749982175000014,
+               -34.163313628999958
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Loxton WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.574402356000064,
+               -34.443758979999984
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Mannum WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.307526677000055,
+               -34.91769734099995
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Mount Pleasant Filtration Water Treatment Plant (Tungkillo Rd)"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.047841542000015,
+               -34.795115983999949
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Murray Bridge WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.25569724200011,
+               -35.096405726999933
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Little Para Water Treatment Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.716667026000096,
+               -34.756783881999979
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Happy Valley Water Treatment Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.567789184000048,
+               -35.066804640999976
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Middle River WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               137.129417128000114,
+               -35.734149366999929
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Barmera WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.40149636700005,
+               -34.24240413299998
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Anstey Hill Water Treatment Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.739441348000014,
+               -34.838591935999943
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Waikerie WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.988155141000107,
+               -34.1795757
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Morgan WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.684558244000073,
+               -34.021117883999977
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"WTP Blanchetown"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.611607578000076,
+               -34.348910294999939
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Summit Storage WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.861162935000038,
+               -35.017214312999954
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Tailem Bend WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.45960109900011,
+               -35.273841219999952
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Barossa Valley Water Treatment Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.848952667000049,
+               -34.642213676999972
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Mypolonga Filtration Water Treatment Plant (Wool Shed Rd)"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.350868012000092,
+               -35.035473318999948
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Penneshaw Desalination Water Treatment Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               137.91772142800005,
+               -35.720728802999929
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Beachport IRP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.008394599000098,
+               -37.477708965999966
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Kalangadoo IRP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.705068107000102,
+               -37.566147440999941
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Kingston IRP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.859417669000095,
+               -36.832417001999943
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Lameroo IRP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.513333077000084,
+               -35.328826210999978
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Lucindale IRP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.371277516000077,
+               -36.976117949999946
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Penola Iron Removal Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.840674350000086,
+               -37.367387723999968
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Pinnaroo Iron Removal Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.913426584000035,
+               -35.256298198999957
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Robe IRP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.76529726900003,
+               -37.166296068999941
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Tarpeena IRP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.794946917000061,
+               -37.626985108999975
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Parilla Iron Removal Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.663799601000051,
+               -35.296287706999976
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"WTP Cadell"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.774403925000115,
+               -34.036781820999977
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Swan Reach WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.569127172000094,
+               -34.501891033999982
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Berri WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.599662384000112,
+               -34.288013707999937
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Hawker Desalination Plant WTPDESAL"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.466772385000013,
+               -31.883045770999956
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Leigh Creek Plant WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.400766112000042,
+               -30.60225801699994
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Kenmore Park Water Treatment Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               132.445831817000112,
+               -26.326135535999981
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Indulkana Desalination Water Treatment Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               133.285017244000073,
+               -26.985165940999934
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Fregon UV Water Dosing Station\/Raw Water Storage Tank Compound\/Desalination Water Treatment Plant\/Re"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               132.037160497000059,
+               -26.762074648999942
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Mimili UV Water Dosing Station\/Raw Water Storage Tank Compound\/Desalination Water Treatment Plant\/Re"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               132.708255313000109,
+               -27.005630254999971
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Sleaford Desalination Water Treatment Plant (Port Lincoln)"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               135.717567985000073,
+               -34.847156928999937
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Wirrina Cove Water Treatment Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.251765185000068,
+               -35.504972394999982
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.371273296000027,
+               -36.976337342999955
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Yalata Treatment Plant"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               131.841610326000023,
+               -31.480937888999961
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Penneshaw Desalination Water Treatment Plant No.2"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               137.920846216000086,
+               -35.723662625999964
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               133.626323665000086,
+               -27.300902483999948
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.066565243000014,
+               -29.644617445999984
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Cape Jaffa WTP"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               139.711185101000069,
+               -36.943523654999979
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Port Lincoln Desalination Water Treatment Plant (Andrews Dr)"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               135.884999999000115,
+               -34.751116666999962
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "NOTES":"Oodnadatta WTP High Recovery Desal Non Potable WQ Upgrade"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               135.441968625000072,
+               -27.552403230999971
+            ]
+         }
+      }
+   ]
 }
