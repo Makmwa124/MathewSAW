@@ -19,19 +19,6 @@
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"Hope Valley Water Treatment Plant"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               138.686792341000114,
-               -34.847672132999946
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
             "NOTES":"Myponga Water Treatment Plant"
          },
          "geometry":{
@@ -114,19 +101,6 @@
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"Adelaide Desalination Plant (Port Stanvac)"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               138.483783926000115,
-               -35.096550737999962
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
             "NOTES":"WTP Woolpunda",
             "Dashboard":"http://sawsgra01:8080/d/ebd18b5c-e8b9-4e69-b13e-5f6469f7ba8f/woolpunda-wtp-operator-dashboard?orgId=1&from=1704762753647&to=1705367553647"
          },
@@ -141,45 +115,6 @@
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"Renmark WTP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.749982175000014,
-               -34.163313628999958
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Loxton WTP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.574402356000064,
-               -34.443758979999984
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Mannum WTP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               139.307526677000055,
-               -34.91769734099995
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
             "NOTES":"Mount Pleasant Filtration Water Treatment Plant (Tungkillo Rd)"
          },
          "geometry":{
@@ -187,32 +122,6 @@
             "coordinates":[
                139.047841542000015,
                -34.795115983999949
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Murray Bridge WTP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               139.25569724200011,
-               -35.096405726999933
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Little Para Water Treatment Plant"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               138.716667026000096,
-               -34.756783881999979
             ]
          }
       },
@@ -239,45 +148,6 @@
             "coordinates":[
                137.129417128000114,
                -35.734149366999929
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Barmera WTP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.40149636700005,
-               -34.24240413299998
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Anstey Hill Water Treatment Plant"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               138.739441348000014,
-               -34.838591935999943
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Waikerie WTP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               139.988155141000107,
-               -34.1795757
             ]
          }
       },
@@ -311,45 +181,6 @@
       {
          "type":"Feature",
          "properties":{
-            "NOTES":"Summit Storage WTP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               138.861162935000038,
-               -35.017214312999954
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Tailem Bend WTP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               139.45960109900011,
-               -35.273841219999952
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Barossa Valley Water Treatment Plant"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               138.848952667000049,
-               -34.642213676999972
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
             "NOTES":"Mypolonga Filtration Water Treatment Plant (Wool Shed Rd)"
          },
          "geometry":{
@@ -370,162 +201,6 @@
             "coordinates":[
                137.91772142800005,
                -35.720728802999929
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Beachport IRP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.008394599000098,
-               -37.477708965999966
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Kalangadoo IRP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.705068107000102,
-               -37.566147440999941
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Kingston IRP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               139.859417669000095,
-               -36.832417001999943
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Lameroo IRP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.513333077000084,
-               -35.328826210999978
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Lucindale IRP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.371277516000077,
-               -36.976117949999946
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Penola Iron Removal Plant"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.840674350000086,
-               -37.367387723999968
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Pinnaroo Iron Removal Plant"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.913426584000035,
-               -35.256298198999957
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Robe IRP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               139.76529726900003,
-               -37.166296068999941
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Tarpeena IRP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.794946917000061,
-               -37.626985485999982
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Tintinara IRP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.998946299000102,
-               -35.996382036999973
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Willalooka IRP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.442413163000045,
-               -36.782994661999956
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "NOTES":"Wolseley IRP"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               140.895561866000075,
-               -36.331084622999981
             ]
          }
       }
