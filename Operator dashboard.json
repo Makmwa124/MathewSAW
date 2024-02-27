@@ -154,6 +154,19 @@
       {
          "type":"Feature",
          "properties":{
+            "NOTES":"Oodnadatta WTP High Recovery Desal Non Potable WQ Upgrade"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               135.441968625000072,
+               -27.552403230999971
+            ]
+         }
+      }
+      {
+         "type":"Feature",
+         "properties":{
             "NOTES":"Morgan WTP"
          },
          "geometry":{
